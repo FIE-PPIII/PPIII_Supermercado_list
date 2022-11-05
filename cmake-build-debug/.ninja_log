@@ -1,0 +1,10 @@
+# ninja log v5
+66	1018	6893116420361092	CMakeFiles/base_cpp.dir/ArticuloVenta.cpp.obj	3a9844b3145fe576
+1	1034	6893116420361092	CMakeFiles/base_cpp.dir/Articulo.cpp.obj	d90fb0804c1df99b
+52	1073	6893116420961092	CMakeFiles/base_cpp.dir/ArticuloStock.cpp.obj	c8c3756b92211eca
+29	1162	6893116421761089	CMakeFiles/base_cpp.dir/FechaActual.cpp.obj	4bceafd15596cb97
+16	1387	6893116424161090	CMakeFiles/base_cpp.dir/main.cpp.obj	d20dfa04ea4aa19b
+92	1483	6893116425161093	CMakeFiles/base_cpp.dir/Caja.cpp.obj	a760e799cc8dd02a
+1022	1803	6893116428361142	CMakeFiles/base_cpp.dir/Venta.cpp.obj	dba16f8f3ec2b288
+1035	2099	6893116431361690	CMakeFiles/base_cpp.dir/Supermercado.cpp.obj	48ad51136147cda1
+2104	2375	6893116434050831	base_cpp.exe	6a96b635766e3583
